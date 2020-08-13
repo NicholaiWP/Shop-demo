@@ -1,9 +1,0 @@
-D:\Dokumenter\ShopSimulation\ShopLibrary\bin\Debug\netstandard2.0\ShopLibrary.deps.json
-D:\Dokumenter\ShopSimulation\ShopLibrary\bin\Debug\netstandard2.0\ShopLibrary.dll
-D:\Dokumenter\ShopSimulation\ShopLibrary\bin\Debug\netstandard2.0\ShopLibrary.pdb
-D:\Dokumenter\ShopSimulation\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.csprojAssemblyReference.cache
-D:\Dokumenter\ShopSimulation\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.csproj.CoreCompileInputs.cache
-D:\Dokumenter\ShopSimulation\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.AssemblyInfoInputs.cache
-D:\Dokumenter\ShopSimulation\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.AssemblyInfo.cs
-D:\Dokumenter\ShopSimulation\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.dll
-D:\Dokumenter\ShopSimulation\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.pdb
