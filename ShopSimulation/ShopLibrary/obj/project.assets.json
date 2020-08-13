@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dokumenter\\ShopSimulation\\ShopLibrary\\ShopLibrary.csproj",
+      "projectUniqueName": "D:\\Skrivebord\\shop_demo_git\\Shop-demo\\ShopSimulation\\ShopLibrary\\ShopLibrary.csproj",
       "projectName": "ShopLibrary",
-      "projectPath": "D:\\Dokumenter\\ShopSimulation\\ShopLibrary\\ShopLibrary.csproj",
+      "projectPath": "D:\\Skrivebord\\shop_demo_git\\Shop-demo\\ShopSimulation\\ShopLibrary\\ShopLibrary.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "D:\\Dokumenter\\ShopSimulation\\ShopLibrary\\obj\\",
+      "outputPath": "D:\\Skrivebord\\shop_demo_git\\Shop-demo\\ShopSimulation\\ShopLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

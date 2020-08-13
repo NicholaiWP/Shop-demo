@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/AC3LWyRR4Yrx/4S6v6cUMIa6vwvVFxTYaCA9IYtrubDLjRe9cQmKGQAuwRnLDACQW7Tq9mnOLGRG5/jR9bkw==",
+  "dgSpecHash": "aodm0HG38GHLGRSYLnDphjW1tXIxOa+JGaBFLns1Os4wl/D5tQVC6epzkUbzfryNHX0Awkj9i0F8SMoGqxgMAA==",
   "success": true,
-  "projectFilePath": "D:\\Dokumenter\\ShopSimulation\\ShopLibrary\\ShopLibrary.csproj",
+  "projectFilePath": "D:\\Skrivebord\\shop_demo_git\\Shop-demo\\ShopSimulation\\ShopLibrary\\ShopLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
